@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mikkylanky
 - 👀 I’m interested in collaborations 
-- 🌱 I’m currently learning Graphics design
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on new opportunities 
 - 📫 How to reach me mikkylanky03@gmail.com
 
